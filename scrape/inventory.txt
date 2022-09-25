@@ -1,0 +1,51 @@
+1. Fitted Dress: $34.99
+2. V-neck Jumpsuit: $69.99
+3. Chiffon Dress: $54.99
+4. Skinny High Waist Jeans: $39.99
+5. Super Skinny High Jeans: $19.99
+6. Oversized Denim Jacket: $19.99
+7. Short Sweatshirt: $24.99
+8. Long-sleeved Jersey Top: $12.99
+9. Skinny High Waist Jeans: $39.99
+10. Short Sweatshirt: $24.99
+11. Long-sleeved Jersey Top: $12.99
+12. Long-sleeved Jersey Top: $12.99
+13. Jersey Dress: $19.99
+14. Short Sweatshirt: $24.99
+15. Crinkled Flounced Blouse: $24.99
+16. Bib Overall Dress: $29.99
+17. Loose-knit Sweater: $17.99
+18. Skinny Regular Jeans: $29.99
+19. Henley-style Top: $12.99
+20. Joggers: $17.99
+21. Skirt with Lacing: $34.99
+22. Top with Tie: $17.99
+23. Joggers: $34.99
+24. Chiffon Dress with Flounce: $49.99
+25. Skirt with Lacing: $34.99
+26. V-neck Top: $9.99
+27. Hooded Jacket: $29.99
+28. Hooded Top: $29.99
+29. Lyocell-blend Blouse: $34.99
+30. Bib Overall Dress: $29.99
+31. Wide-leg Pants: $34.99
+32. Ankle-length Slim-fit Pants: $24.99
+33. Short Sweatshirt: $9.99
+34. V-neck Blouse: $17.99
+35. Short Skirt: $24.99
+36. Mesh T-shirt: $17.99
+37. Blouse with Embroidery: $59.99
+38. Wide-cut Cotton Top: $34.99
+39. Pleated Skirt: $54.99
+40. Coat: $69.99
+41. Wide-leg Pants: $49.99
+42. Top: $29.99
+43. Knit Mohair-blend Sweater: $69.99
+44. Dress: $69.99
+45. T-shirt with Embroidery: $29.99
+46. Blouse with Ruffled Collar: $49.99
+47. Pants: $49.99
+48. Jersey Dress: $19.99
+49. T-shirt: $6.99
+50. T-shirt: $6.99
+51. Blazer: $49.99
